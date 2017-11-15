@@ -17,3 +17,7 @@ void main()
 	</body>
 </html>
 ```
+```python
+def main()
+	return 0
+```
